@@ -1,4 +1,5 @@
 # snowboard-selector
+### THIS IS A on-going project, will update as I develop
 Find the perfect size of your next board!
 
 selector flowchart Ideas:
